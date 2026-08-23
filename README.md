@@ -10,6 +10,7 @@ I am synxtr1gger, a linguist from Europe who is also a self-proclaimed "sigma mu
 - **German** / **French** / **Hebrew** / **Kazakh** - A1
 
 **Dead languages:** Classical Latin
+
 **Conlangs:** Toki Pona, Sindarin
 
 ### Tools
