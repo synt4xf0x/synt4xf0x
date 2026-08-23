@@ -12,6 +12,7 @@ I am synxtr1gger, a linguist from Europe who is also a self-proclaimed "sigma mu
 ### Conlangs known/learning
 - **Toki Pona**, **Sindarin**
 
+### Tools learning
 #### Comfortable with:
 - **Linux** (general systems knowledge)
 #### Learning:
