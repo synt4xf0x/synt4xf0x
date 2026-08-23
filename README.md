@@ -14,7 +14,7 @@ I am synxtr1gger, a linguist from Europe who is also a self-proclaimed "sigma mu
 
 **Conlangs:** Toki Pona, Sindarin
 
-### Tools
+### Tools I use
 **Comfortable with**
 - Linux, Windows (general systems knowledge)
 
