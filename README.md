@@ -16,7 +16,7 @@ I am synxtr1gger, a linguist from Europe who is also a self-proclaimed "sigma mu
 
 ### Tools I use
 **Comfortable with**
-- Linux, Windows (general systems knowledge)
+- Linux (general systems knowledge)
 
 **Learning**
 - Python (for language-processing projects, NLTK)
