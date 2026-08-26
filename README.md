@@ -2,7 +2,7 @@
 I am synxtr1gger, a linguist from Europe who is also a self-proclaimed "sigma multilingual gigachad" and a one-man life support system for endangered languages.
 
 ### Current Projects
-- [My linguistics blog](https://synxtr1gger.github.io/lang-blog/)
+- *soon*
 
 ### Languages (by CEFR)
 - **Ukrainian** - native, **Russian** - C2, **English** - C2
