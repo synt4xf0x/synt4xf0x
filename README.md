@@ -1,5 +1,5 @@
 ## Hello world!
-I am synxtr1gger, a linguist from Europe who is also a self-proclaimed "sigma multilingual gigachad". Studying languages, tech and getting into cybersecurity.
+I am synxtr1gger, a linguist from Europe studying languages, tech, and getting into cybersecurity.
 
 ### Current Projects
 - *soon*
