@@ -13,13 +13,6 @@ I am synxtr1gger, a linguist from Europe studying languages, tech, and getting i
 
 **Conlangs:** Toki Pona, Sindarin
 
-### //Tools I use
-**Comfortable with**
-- Linux (general systems knowledge)
-
-**Learning**
-- Python (for language-processing projects, NLTK)
-
 ### //Diplomas & Certificates
 **Completed**
 - **B.A. in Applied Linguistics with English and Spanish**
