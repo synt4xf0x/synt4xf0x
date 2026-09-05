@@ -3,9 +3,6 @@ I am synxtr1gger, a linguist from Europe studying languages, tech, and getting i
 
 [Linkedin](https://www.linkedin.com/in/anatolii-psa/)
 
-### //Current Projects
-- *soon*
-
 ### //Languages (by CEFR)
 - **Ukrainian** - native, **Russian** - C2, **English** - C2
 - **Polish** - C1, **Spanish** - B1
