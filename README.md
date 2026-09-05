@@ -1,5 +1,5 @@
 ## Hello world!
-I am synxtr1gger, a linguist from Europe studying languages, tech, and getting into cybersecurity.
+I am synt4xf0x, a linguist from Europe studying languages, tech, and getting into cybersecurity.
 
 [Linkedin](https://www.linkedin.com/in/anatolii-psa/)
 
