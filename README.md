@@ -1,5 +1,5 @@
 ## Hello world!
-I am synt4xf0x, a linguist from Europe studying languages, tech, and getting into cybersecurity.
+I am synt4xf0x, linguist by background, now self-learning cybersecurity. Working through HTB, CompTIA Network+, and Google Cybersecurity Certificate. Next up: Security+, working toward offensive security.
 
 [Linkedin](https://www.linkedin.com/in/anatolii-psa/)
 
@@ -9,7 +9,7 @@ I am synt4xf0x, a linguist from Europe studying languages, tech, and getting int
 - **Belarusian** - A2, **Japanese** - A2
 - **German** / **French** / **Hebrew** / **Kazakh** / **Danish** / **Finnish** / **Chinese** - A1
 
-**Dead languages:** Classical Latin
+**Dead languages:** Classical Latin *(learning)*
 
 **Conlangs:** Toki Pona, Sindarin
 
@@ -19,3 +19,5 @@ I am synt4xf0x, a linguist from Europe studying languages, tech, and getting int
 
 **In Progress**
 - **CompTIA Network+ (N10-009)**
+- **Google Cybersecurity Certificate**
+- **HTB CJCA** *(working through the Junior Cybersecurity Analyst path)*
