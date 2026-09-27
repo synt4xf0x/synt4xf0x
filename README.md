@@ -1,5 +1,5 @@
 ## Hello world!
-I am synt4xf0x, linguist by background, now self-learning cybersecurity. Working through HTB, CompTIA Network+, and Google Cybersecurity Certificate. Next up: Security+, working toward offensive security.
+I am synt4xf0x, linguist by background, now self-learning cybersecurity. Linguist by background, now self-learning cybersecurity. Working through HTB CJCA, CompTIA Network+, and Google Cybersecurity Certificate. Next up: Security+, working toward offensive security.
 
 [Linkedin](https://www.linkedin.com/in/anatolii-psa/)
 
