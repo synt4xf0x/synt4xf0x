@@ -1,5 +1,7 @@
 ## Hello world!
-I am synt4xf0x, linguist by background, now self-learning cybersecurity. Linguist by background, now self-learning cybersecurity. Working through HTB CJCA, CompTIA Network+, and Google Cybersecurity Certificate. Next up: Security+, working toward offensive security.
+I am synt4xf0x, English teacher and linguist by background, moving into cybersecurity. Studying for CompTIA Network+ and working through HTB Academy's Junior Cybersecurity Analyst path toward the CJCA. Next: Security+.
+
+Languages: Ukrainian (native), English and Russian (C2), Polish (C1), Spanish (B1).
 
 [Linkedin](https://www.linkedin.com/in/anatolii-psa/)
 
